@@ -1,0 +1,15 @@
+messages:
+    # Here you can change the texte of the plugin on command /redem // Ici vous pouvez changer le texte du plugin lorsque vous executez la commande /redem
+    1: "&6&lServeur &8>> &cRedemarrage du serveur dans 10 secondes"
+    2: "&6&lServeur &8>> &cRedemarrage du serveur dans 9 secondes"
+    3: "&6&lServeur &8>> &cRedemarrage du serveur dans 8 secondes"
+    4: "&6&lServeur &8>> &cRedemarrage du serveur dans 7 secondes"
+    5: "&6&lServeur &8>> &cRedemarrage du serveur dans 6 secondes"
+    6: "&6&lServeur &8>> &cRedemarrage du serveur dans 5 secondes"
+    7: "&6&lServeur &8>> &cRedemarrage du serveur dans 4 secondes"
+    8: "&6&lServeur &8>> &cRedemarrage du serveur dans 3 secondes"
+    9: "&6&lServeur &8>> &cRedemarrage du serveur dans 2 secondes"
+    10: "&6&lServeur &8>> &cRedemarrage du serveur dans 1 secondes"
+    11: "&6&lServeur &8>> &cRedemarrage du serveur imminent"
+    reload: "&aLa configuration du plugin a reload avec succes!"
+    no-permission: "&cPas la permission."

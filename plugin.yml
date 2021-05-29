@@ -1,0 +1,11 @@
+name: F-RestartCustom
+author: failaxite
+version: 1.0
+main: fr.failaxite.restartcustom.Main
+commands:
+  redem:
+    description: restart the serveur with messages
+    permission: redem.use
+  redemreload:
+    description: reload the config of the plugin
+    permission: redem.reload
